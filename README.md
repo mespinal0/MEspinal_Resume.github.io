@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Professional Summary
 
-You can use the [editor on GitHub](https://github.com/mespinal0/MEspinal_Resume.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A dedicated, enthusiastic, critical thinking professional who’s first priority is mission accomplishment. An experienced leader and supervisor in even the most challenging situations. Able to build and maintain positive relationships with colleagues while motivating team members to perform at full potential. Equally capable of following direction as giving. A current student at the University of Colorado at Boulder I am always motivated and ready to learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Qualifications Include
 
-### Markdown
+- Leadership Experience
+- Training Skills
+- Adaptability
+- Technically Inclined
+- Fast and Eager Learner
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Expericence
 
-```markdown
-Syntax highlighted code block
+Leadership
+- Directly supervised and accountable for 15 subordinates in high and low stress situations resulting in a meritorious promotion
+- Accountable for over $100,000 of military equipment resulting in zero loss in a 4 year period
+-	Aided in the planning and training for over 300 new hires in both military and civilian establishments
 
-# Header 1
-## Header 2
-### Header 3
+Training 
+-	Designed and delivered an educational course on a weapon system to over 300 employees resulting in 100% success rate after evaluation
+-	Personally trained over 100 new personnel in both military and civilian employments
 
-- Bulleted
-- List
+Adaptability
+-	Easily able to adapt to rapidly changing situations while still maintaining a timeline.
+-	Able to work productively in a high stress setting
+-	Went from training Spanish forces to Ebola Aid in Africa in less than 2 weeks
+-	Easily transitioned from military work to civilian work and student life
 
-1. Numbered
-2. List
+Teamwork
+-	Effectively worked in 2-10 person teams to accomplish tasks with a 100% success rate
+-	Had leadership role in all teams resulting in an increase in team member promotion and 50% drop in workplace incidents
 
-**Bold** and _Italic_ and `Code` text
+## Work History
 
-[Link](url) and ![Image](src)
-```
+September 2017 - Present : BJ’s Restaurant and Brewhouse in Westminster
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+October 2013 - October 2017 : United States Marine Corps, various locations in the US and Overseas 
 
-### Jekyll Themes
+March 2012 - October 2013 : Lifeguard at Wet n’ Wild Orlando, Florida
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mespinal0/MEspinal_Resume.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+March 2012 - October 2012 : Summer Valet at Disney’s Wide World of Sports
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Education and Training
+
+2017  - Present :  Computer Science – University of Colorado Boulder
+
+2016 - USMC Leadership Course
+
+2015 - USMC Advanced Leadership Course 
+
+2013 - USMC Basic Assaultman Course
+
+2012  - Red Cross CPR certified
+
+2011 - 2012 : 24 credits completed at Valencia College, FL
+
+
+
